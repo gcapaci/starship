@@ -187,6 +187,6 @@ format = "[$duration](bold yellow)"
 
 [hostname]
 ssh_only = false
-format = "[🎄](bold blue)[$hostname](bold red)"
+format = "[🍻](bold blue)[$hostname](bold red)"
 trim_at = ".ciacc.it"
 disabled = false
